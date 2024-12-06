@@ -1,4 +1,4 @@
-import LinkTree from './LinkTree';
+import LinkTree from './components/LinkTree';
 
 export const metadata = {
   title: 'HARIR - Social Links',

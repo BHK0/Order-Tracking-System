@@ -68,7 +68,7 @@ export default function SearchForm({ onSearchResult }) {
       className="w-full max-w-md mx-auto"
       initial={{ opacity: 0, scale: 0.8 }}
       animate={{ opacity: 1, scale: 1 }}
-      transition={{ duration: 0.8, ease: "easeOut" }}
+      transition={{ duration: 0.4, ease: "easeOut" }}
     >
       <div className="relative flex gap-1 items-stretch">
         <motion.input

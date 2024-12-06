@@ -136,7 +136,7 @@ const container = {
           transition={{ delay: 1 }}
           className="mt-12 md:mt-16 text-[#7c7b7b] text-sm"
         >
-          © {new Date().getFullYear()} HARIR Men's Tailoring
+          © {new Date().getFullYear()} HARIR Men&apos;s Tailoring
         </motion.div>
       </div>
     );
