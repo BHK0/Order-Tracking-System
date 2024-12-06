@@ -72,7 +72,7 @@ const container = {
           >
             <div className="rounded-full mx-auto shadow-[0_0_20px_rgba(0,0,0,0.3)] w-[150px] h-[65px]">
               <Image
-                src="/images/logo.png"
+                src="/logo.png"
                 alt="HARIR Men's Tailoring"
                 width={120}
                 height={120}
